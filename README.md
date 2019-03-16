@@ -1,4 +1,9 @@
 # ARE-Viralite
-Projet ARE sur la viralité des informations circulant sur les réseaux sociaux. Notre projet consiste en la modélisation de la diffusion de l'information sur les réseaux sosciaux, notamment avec les fake News.
+Projet mené par Noah Maupu, Gaetan Scart, Yanis Lacroix et Thomas Binga.
 
-Projet mené par Noah Maupu, Gaetan Scart, Yanis Lacroix et Thomas Binga.Projet visant à étudier la propagation des informations circulant sur les réseaux sociaux . 
+Déroulement du travail:
+    Nous savions que nous voulons utiliser des matrices (des listes de listes sur Python) pour créer des réseaux de connections entre personnes, nous avons donc commencer par faire des connections simples avec un matrice 5 par 5. Nous avons donc chercher à faire passer une information dans ce réseaux de connections et d'observer çelon quels conditions l'information allait devenir virale ou allait mourir.
+    Une fois que nous avions compris le fonctionement, notre codeur privé, $$Thomas$$, nous à fait de jolies programmes qui allait créer des réseaux de connections automatiquement avec un nombre n de personnes. De plus nous avons fait des schémas gràce à NetworkX qui nous permettent de visualiser nos réseaux de connections.
+    Nous avons ensuite chercher à ce que les personnes de nos réseaux puisse avoir des profiles types qui leur donneront des caractéristique différent. Pour commencer nous avons créer 4 profiles types qui changent le nombre moyen d'amis, la probabilité de voir l'information si ils l'ont reçus et la probabilité de la repartager. Nous avons aussi fait des schémas avec des couleurs différentes pour chaque type de personne.
+    Mercredi 13 mars:
+    D'après le modèle de connections expliqué par Nicky Case, les réseaux seraient consitués de petits groupes de personnes proches avec des ponts entre différents groupes. Nous avons donc décider que nos réseaux, qui était composé d'environ 100 personnes, seraient les groupes dont il parlait. Nous avons donc créer un programme qui nous crée un quantité voulut de groupes de tailles différentes. Nous avons ensuite chercher à créer des liaisons entre les groupes en prenant compte d'un nouveau paramètre pour chaque type: la probabilité d'avoir des amis en dehors de leur groupe.
