@@ -9,6 +9,6 @@ Une fois que nous avons compris le fonctionement, nous avons fait de jolis progr
     
 Nous avons ensuite cherché à ce que les personnes de nos réseaux puissent avoir des profils types qui leur donneront des caractéristiques différentes. Pour commencer nous avons crée 4 profils types(classique, marginal, geek, vieux) avec, comme différences entre les profils: le nombre moyen d'amis, la probabilité de voir l'information si ils l'ont reçu et la probabilité de la repartager. Nous avons aussi fait des schémas avec des couleurs différentes pour chaque type de personne.
     
-Mercredi 13 mars:
+#Mercredi 13 mars:
     
 D'après le modèle de connections expliqué par Nicky Case, les réseaux seraient consitués de petits groupes de personnes proches avec des ponts entre les différents groupes. Nous avons donc décidé que nos réseaux, qui était composés d'environ 100 personnes, seraient ces fameux groupes. Pour cela, nous avons crée un programme générant un quantité voulue de groupes de tailles différentes. Nous avons ensuite cherché à créer des liaisons entre les groupes en prenant compte un nouveau paramètre pour chaque type de personne: la probabilité d'avoir des amis en dehors de leur groupe.
