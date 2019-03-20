@@ -12,3 +12,7 @@ Nous avons ensuite cherché à ce que les personnes de nos réseaux puissent avo
 ## Mercredi 13 mars:
     
 D'après le modèle de connections expliqué par Nicky Case, les réseaux seraient consitués de petits groupes de personnes proches avec des ponts entre les différents groupes. Nous avons donc décidé que nos réseaux, qui était composés d'environ 100 personnes, seraient ces fameux groupes. Pour cela, nous avons créé un programme générant un quantité voulue de groupes de tailles différentes. Nous avons ensuite cherché à créer des liaisons entre les groupes en prenant compte un nouveau paramètre pour chaque type de personne: la probabilité d'avoir des amis en dehors de leur groupe.
+
+## Mercredi 20 mars:
+
+Nous avons écrit un programme permettant de lier les différents groupes entre eux. De plus, nous avons commencé à nous pencher sur l'interface graphique afin d'avoir des beaux réseaux d'amis !  finalement nous nous sommes pris la tête avec github.
