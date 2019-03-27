@@ -16,3 +16,9 @@ D'après le modèle de connections expliqué par Nicky Case, les réseaux seraie
 ## Mercredi 20 mars:
 
 Nous avons écrit un programme permettant de lier les différents groupes entre eux. De plus, nous avons commencé à nous pencher sur l'interface graphique afin d'avoir des beaux réseaux d'amis !  finalement nous nous sommes pris la tête avec github.
+
+## Mercredi 27 mars:
+
+Nous avons commencer a écrire un programme permettant de modéliser la diffusion d'une Fake News, en ajoutant au programme un profil "média". Ce dernier présente une probabilité de démentir la fake news au moment de la repartager. Le but de ce programme est de voir si une Fake News sera diffusée ou non en fonction du nombre de média présent, de la probabilité de démentir l'info.
+
+De plus, nous avons fini le programme qui nous indique quel groupe fait des liaisons avec quel groupe et qui nous indique pour chaque liaisons, les personnes exactes qui font ses liaisons. C'est à dire Groupe 1: le geek 3 fait une liaison avec le vieux du groupe 2 etc ...
