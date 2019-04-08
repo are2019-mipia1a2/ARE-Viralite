@@ -22,3 +22,7 @@ Nous avons écrit un programme permettant de lier les différents groupes entre 
 Nous avons commencer a écrire un programme permettant de modéliser la diffusion d'une Fake News, en ajoutant au programme un profil "média". Ce dernier présente une probabilité de démentir la fake news au moment de la repartager. Le but de ce programme est de voir si une Fake News sera diffusée ou non en fonction du nombre de média présent, de la probabilité de démentir l'info.
 
 De plus, nous avons fini le programme qui nous indique quel groupe fait des liaisons avec quel groupe et qui nous indique pour chaque liaisons, les personnes exactes qui font ses liaisons. C'est à dire Groupe 1: le geek 3 fait une liaison avec le vieux du groupe 2 etc ...
+
+## Mercredi 3 avril:
+
+Nous avons travillé sur plusieurs fronts aujourd'hui, d'un côté, gaëtan à avancé le systeme avec groupes afin de faire circuler l'information au sein d'une population comptant plusieurs groupes (des ajustements doivent encore être apportés mais le programme est cohérent et fonctionne dans les grandes lignes ) D'autre part, Yanis, et Noah se sont occupés de modéliser le système avec fake news, cela caus quelques problèmes pour transmettre l'info notamment. Enfin, Thomas a continué la partie graphique afin d'obtenir 
